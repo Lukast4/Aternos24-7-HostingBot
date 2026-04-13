@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Nexus-2026.aternos.me",
+    "ip": "quillfish.aternos.host",
     "port": 59267,
     "version": "",
     "try-creative": false
